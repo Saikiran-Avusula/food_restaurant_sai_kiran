@@ -1,5 +1,6 @@
-import React from 'react';
+// src/container/FindUs/FindUs.jsx
 
+import React from 'react';
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
 
